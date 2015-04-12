@@ -1,5 +1,7 @@
 # Dockerfile for couchpotato
 
+### This project has moved to https://github.com/ajclark/usenet
+
 # Build instructions
 
 * Build: `docker build -t couchpotato .`
